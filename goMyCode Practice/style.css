@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+}
+
+.navbar {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    width: 100%;
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    letter-spacing: 2px;
+}
+
+.navbar a {
+    color: white;
+    font-size: 1.2em;
+    margin: 60px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: black;
+}
+
+.about h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    margin: 0px 150px 0px 150px;
+    text-align: center;
+}
+
+.about p {
+    text-align: ltr;
+    margin: 0px 150px 0px 150px;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.work img {
+    display: none;
+    height: 150px;
+    width: 150px;
+}
+
+.work h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    margin: 0px 150px 0px 150px;
+    text-align: center;
+}
+
+.work p {
+    text-align: ltr;
+    margin: 0px 150px 0px 150px;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.resume h2 {
+    font-size: 35px;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    margin: 0px 150px 0px 150px;
+    text-align: center;
+}
+
+.resume form {
+    text-align: center;
+    margin: 0px 150px 0px 150px;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact h2 {
+    font-size: 35px;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    margin: 0px 150px 0px 150px;
+    text-align: center;
+}
+
+.contact form {
+    text-align: center;
+    margin: 0px 150px 0px 150px;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    width: 100%;
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    letter-spacing: 2px;
+}
+
+footer p {
+    color: white;
+}
